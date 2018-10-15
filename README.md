@@ -36,4 +36,8 @@ At a high level, you need to build a form to create a new student, have the form
 * [Reading](https://github.com/learn-co-curriculum/rails-form_tag-readme)
 * [Form Helper Documentation](http://api.rubyonrails.org/classes/ActionView/Helpers/FormTagHelper.html)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-form_tag-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-form_tag-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails form_tag Lab</p>
